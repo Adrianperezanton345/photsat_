@@ -50,7 +50,7 @@ class CDTCExecCtrl{
 	 * \return true if it is a ObsMng telecommand
 	 *
 	 */
-	bool IsObsMngTC(){return (ExecCtrlObsMng==mExecCtrl);}
+	bool IsObsMng(){return (ExecCtrlObsMng==mExecCtrl);}
 
 
 	/**
